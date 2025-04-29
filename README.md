@@ -18,6 +18,8 @@ Documentação em Swagger:
 
 ```
 http://127.0.0.1:8000/docs
+# ou
+http://127.0.0.1:8000/redoc
 ```
 
 Obs: Após instalar uma dependência nova, para atualizar o arquivo requirements.txt execute o comando abaixo:
